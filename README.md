@@ -1,5 +1,5 @@
 # Fortune-Tableau-Project
-Fortune project are design to help analyze company shareholders' equity, market price and profit. This project will create a interactive dashboards with visual tool like bar graph, scatterplots to compare accross different company. 
+Fortune projects aim to analyze company shareholders' equity, market prices, and profits. This project will create an interactive dashboard with visual tools like bar graphs and scatterplots to compare financial data across different companies  
 
 #status 
 in progress 
